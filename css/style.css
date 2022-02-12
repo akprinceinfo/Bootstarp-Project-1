@@ -212,6 +212,23 @@ h6{
 .about-btn a{
     padding: 20px 30px;
 }
+
+/* apartment-sketch */
+
+#apartment-sketch span{
+    color: #FF5A3C;
+}
+
+#apartment-sketch a{
+    font-size: 20px;
+    color: black;
+}
+
+
+
+
+
+
 /* area-properties */
 
 #area-properties{
@@ -233,4 +250,153 @@ h6{
 }
 #area-properties a{
     color: #FF5A3C;
+}
+
+
+/* explore-neighbour */
+
+.explore-neighbour-right a{
+    color: #FF5A3C;
+}
+
+/* Our Aminities */
+
+#our-aminities i{
+    font-size: 50px;
+    text-align: end;
+    padding-right: 15%;
+}
+
+#our-aminities h6{
+    color: #FF5A3C;
+}
+
+
+.client-testimonial-buttom-left img{
+    border-radius: 50%;
+}
+.client-testimonial-buttom-right img{
+    border-radius: 50%;
+}
+
+.client-testimonial-buttom-left i,
+.client-testimonial-buttom-right i{
+    color: yellow;
+    font-size: 12px;
+}
+
+#client-testimonial{
+    margin-top: -10%;
+    padding-bottom: 50px;
+}
+.client-testimonial-buttom-left {
+	background: white;
+	padding: 25px 20px;
+	border-radius: 15px;
+}
+.client-testimonial-buttom-right{
+    background: white;
+	padding: 25px 20px;
+	border-radius: 15px;
+}
+.client-testimonial-buttom-left p{
+    text-align: justify;
+}
+.client-testimonial-buttom-right p{
+    text-align: justify;
+}
+
+#news-blogs i{
+    color: #FF5A3C;
+    padding-right: 8px;
+}
+#news-blogs a{
+    color: #FF5A3C;
+}
+#news-blogs h5 {
+	font-weight: 800;
+	padding: 15px 10px;
+}
+
+
+
+/* news-blogs-footer */
+#news-blogs-footer {
+	margin-bottom: -5%;
+	/* position: absolute; */
+}
+.news-blogs-footer-width{
+    background: #FF5A3C;
+}
+.news-blogs-footer-width h1 {
+	color: #FFFFFF;
+	padding-left: 10%;
+	padding-top: 5%;
+}
+.news-blogs-footer-width p{
+    color: #FFFFFF;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+.news-blogs-footer-width a {
+	padding: 15px 35px;
+	background: white;
+	color: black;
+	margin-top: 20%;
+}
+
+/* Footer  */
+
+footer{
+    background: #171B2A;
+    color: #F2F6F7;
+    padding-top: 12%;
+   /* position: relative; */
+}
+.footer-top {
+	padding-top: 10%;
+}
+footer h3{
+    font-weight: 700;
+}
+
+
+footer i{
+    padding-right: 10px;
+}
+footer p{
+    color: #F2F6F7;
+}
+.footer-mail input{
+    padding: 15px 10px;
+}
+.footer-mail i{
+    padding: 21px 22px;
+    background-color: #FF5A3C;
+    color: #F2F6F7;
+}
+.footer-end-icone li i{
+    float: left;
+    padding-left: 8px;
+    padding-top: 8%;
+}
+.footer-end-icone li:first-child i{
+    padding-left: 0;
+}
+
+
+
+#footer-buttom{
+    background: #282B38;
+    color: #FFFFFF;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+#footer-buttom p{
+    color: #FFFFFF
+}
+#footer-buttom li{
+    float: left;
+    padding-left: 5%;
+    font-weight: 700;
 }
